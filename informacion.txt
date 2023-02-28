@@ -1,0 +1,10 @@
+ Nombre completo
+ Hernandez Trejo Abril Monserrat
+ Edad
+ 19 
+ Expediente
+ 307035
+ Carrera 
+ Ingenieria en software
+ Correo
+ ahernandez490@alumnos.uaq.mx

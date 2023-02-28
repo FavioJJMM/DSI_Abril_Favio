@@ -1,0 +1,5 @@
+Nombre: Favio Jardinez Montiel
+Edad: 19
+Exp: 281971
+Correo: fjardinez22@alumnos.uaq.mx
+Carrera: Ing. Software
